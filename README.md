@@ -1,2 +1,2 @@
-# FlightBooking-Template-Dom
-A responsive Flight booking website template built with DOM
+# Flight-Booking-Website
+Flight Booking website with ticket generating functionality using Javascript DOM
